@@ -9,4 +9,7 @@ public void m1() {
 	Reporter.log("hii good evening",true);
 	
 }
+	Public class B{
+		Reporter.log("changes made in git hub", true);
+}
 }
