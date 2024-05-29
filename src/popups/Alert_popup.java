@@ -12,6 +12,8 @@ public class Alert_popup {//accept and get text method
 		//give customer id 
 		driver.findElement(By.xpath("//input[@name='cusid']")).sendKeys("12345");
 		//submit
+		kjhjgjj
+			6754312
 //click on submit button
 		driver.findElement(By.xpath("//input[@name='submit']")).click();
 		//move the control of selenium from webpage to alert pop up page
