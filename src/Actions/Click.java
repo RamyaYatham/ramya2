@@ -6,7 +6,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.interactions.Actions;
-
+ramya 
+	selenium
+	testing
 public class Click {
 public static void main(String[] args) {
 	WebDriver driver = new EdgeDriver();
